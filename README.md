@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi i'm Juan Nates  👋
 
+Software Developer
+
+Experienced full stack Developer, and cloud Enthusiast.
+
+![portada](https://user-images.githubusercontent.com/62871071/137936848-6432c276-927a-415f-b1df-2edc2db23c82.jpeg)
 <!--
 **jnates/jnates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
