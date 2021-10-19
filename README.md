@@ -1,5 +1,4 @@
-### Hi i'm Juan Nates  👋
-
+### Hi, I'm Juan Nates, I'm an electronic engineer currently studying specialization in software development processes.
 👀 I’m interested in learning from new technologies
 
 Software Developer
