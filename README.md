@@ -1,5 +1,7 @@
 ### Hi i'm Juan Nates  👋
 
+👀 I’m interested in learning from new technologies
+
 Software Developer
 
 Experienced full stack Developer, and cloud Enthusiast.
