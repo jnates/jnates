@@ -8,7 +8,7 @@ Experienced full stack Developer, and cloud Enthusiast.
 
 ![portada](https://user-images.githubusercontent.com/62871071/137936848-6432c276-927a-415f-b1df-2edc2db23c82.jpeg)
 
-<div align="center"> <h1> <strong> My Skill Set <strong/></h1></div>
+<div align="center"> <h2> <strong> My Skill Set <strong/></h2></div>
 
 <table><tr><td valign="top" width="33%">
 
@@ -60,7 +60,7 @@ Experienced full stack Developer, and cloud Enthusiast.
   
 <br/>
 
-## Connect with me  
+<div align="center"> <h2> <strong> Connect with me <strong/></h2></div>
 <div align="center">
 <a href="https://github.com/jnates" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
