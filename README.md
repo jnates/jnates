@@ -1,11 +1,7 @@
 ### Hi, I'm Juan Nates, I'm an electronic engineer currently studying specialization in software development processes.
 👀 I’m interested in learning from new technologies
 
-Software Developer
-
-Experienced full stack Developer, and cloud Enthusiast.
-
-![portada](https://user-images.githubusercontent.com/62871071/137936848-6432c276-927a-415f-b1df-2edc2db23c82.jpeg)
+![portada2](https://user-images.githubusercontent.com/62871071/138319837-2ffaf034-04e9-42f4-9a70-4a1cb05a0d27.jpeg)
 
 <div align="center"> <h2> <strong> My Skill Set <strong/></h2></div>
 
