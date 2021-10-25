@@ -40,8 +40,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />    
@@ -56,6 +54,12 @@
 
 </td></tr></table>
   
+<br/>
+
+<div align="center"> <h2> <strong> Statistics of technologies used <strong/></h2></div>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnates)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 
 <div align="center"> <h2> <strong> Connect with me <strong/></h2></div>
