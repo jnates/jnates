@@ -1,7 +1,5 @@
 ![portada2](https://user-images.githubusercontent.com/62871071/138319837-2ffaf034-04e9-42f4-9a70-4a1cb05a0d27.jpeg)
 
-![Profile views](https://gpvc.arturio.dev/jnates)
-
 ### I'm an electronic engineer currently studying specialization in software development processes.
 👀 I’m interested in learning from new technologies
 
