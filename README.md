@@ -71,7 +71,7 @@ Management of Postgres and Mysql relational databases, management of MVC design 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnates&hide_progress=true" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnates" alt="Top Langs">
   </a>
 </p>
 
