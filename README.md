@@ -1,8 +1,8 @@
 ![portada2](https://user-images.githubusercontent.com/62871071/138319837-2ffaf034-04e9-42f4-9a70-4a1cb05a0d27.jpeg)
 
-Electronic engineer specialized in software development processes with extensive experience in software development, currently working with technologies, NodeJs, React, Typscript, GraphiQL, Mysql, Docker, AWS, Terraform, I have extensive knowledge in technologies such as php, laravel, Python , Go, NodeJs, JavaScript, among others.
+Electronic engineer specialized in software development processes with extensive experience in software development, currently working with cutting-edge technologies such as Golang NodeJs, React, Typscript, GraphiQL, Mysql, PostgreSQL Docker, AWS, Terraform, Kubernetes, Serverless, SonarQube. I have extensive knowledge of technologies. such as PHP, Laravel, Python, JavaScript, Java, among others.
 
-Management of Postgres and Mysql relational databases, management of MVC design patterns, management of continuous integration with git, with agile methodologies such as scrum, personally I consider myself a punctual and responsible person with all my functions, I stand out in the development area software, I also have a great ability to acquire new knowledge.
+Management of Postgres and Mysql relational databases, management of MVC design patterns, management of continuous integration with git, with agile methodologies such as scrum, personally I consider myself a punctual and responsible person with all my functions, I stand out in the development area of software, I also have a great ability to acquire new knowledge.
 
 <div align="center"> <h1> <strong> The technologies I currently work with are </strong> </h1> </div>   
 
