@@ -22,10 +22,6 @@ Throughout my career, I’ve worked on projects in sectors such as finance, bank
   👀 I’m interested in learning new technologies.
 </p>
 
-<div align="center">
-  <h2><strong>My Skill Set</strong></h2>
-</div>
-
 <br>
 
 <div align="center">
