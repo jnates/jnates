@@ -16,7 +16,7 @@ Throughout my career, I’ve worked on projects in sectors such as finance, bank
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,go,aws,docker,kubernetes,git,linux,postman" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,go,aws,docker,kubernetes,git,linux,postman" alt="My Skills" height="50" />
   </a>
   <br><br>
   👀 I’m interested in learning new technologies.
