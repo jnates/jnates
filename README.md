@@ -1,12 +1,12 @@
 ![portada2](https://user-images.githubusercontent.com/62871071/138319837-2ffaf034-04e9-42f4-9a70-4a1cb05a0d27.jpeg)
 
-Electronic engineer specialized in software development processes with extensive experience in the software development industry, I am a full stack developer and deliver high-quality web applications using React.
+I am an Electronic Engineer specialized in Software Development Processes and currently pursuing my 3rd semester of a Master’s in Software Engineering.
 
-I have a strong background in both frontend and backend development, with experience managing web styles with various UI frameworks, such as Material UI and Tailwind CSS. I also have experience in creating RESTful APIs using Node.js among other technologies (Golang, Typscript, GraphiQL, SonarQube.) with tools based mainly on Express. I am competent in the use of cloud services such as AWS S3 and EC2, I also have extensive knowledge in DevOps technologies which are the following: Docker, AWS, Terraform, Kubernetes, Serverless.
+With experience as a Full Stack Developer, I work with technologies such as React, Angular, NestJS, Spring Boot, Java, Golang, Python, and TypeScript. I am skilled in building scalable architectures, RESTful APIs, and microservices-based solutions.
 
-Management of Postgres and Mysql relational databases, management of continuous integration with git, with agile methodologies such as scrum, personally I consider myself a punctual and responsible person with all my functions, I stand out in the area of ​​software development, I also have a great ability to acquire new knowledge.
+I have hands-on experience in cloud environments like AWS and Azure, along with DevOps tools like Docker, Terraform, and Kubernetes. I also focus on software quality practices, including SonarQube and Clean Code, to ensure maintainability and performance.
 
-I am motivated to create innovative, easy-to-use solutions that solve real-world problems and add value to users and customers. I enjoy working with a diverse and collaborative team, where I can share my ideas, feedback and experience, and learn from others. When I'm not developing cutting-edge apps, I love exploring new music and finding inspiration for my next coding project.
+Throughout my career, I’ve worked on projects in sectors such as finance, banking, and telecommunications, where I led teams and applied agile methodologies like Scrum and Kanban. I am proactive, always looking to improve, and passionate about creating solutions that deliver real value to users and clients.
 
 <div align="center"> <h1> <strong> The technologies I currently work with are </strong> </h1> </div>   
 
