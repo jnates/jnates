@@ -26,6 +26,18 @@
 
 ---
 
+<div align="center"><h2>🔥 Top Languages Lately</h2></div>
+<p align="center"><sub>The 4 I've been coding in the most recently</sub></p>
+
+<p align="center">
+  <img height="34" src="https://img.shields.io/badge/%231-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img height="34" src="https://img.shields.io/badge/%232-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img height="34" src="https://img.shields.io/badge/%233-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img height="34" src="https://img.shields.io/badge/%234-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+---
+
 <div align="center"><h2>🛠️ Tech Stack</h2></div>
 
 <p align="center"><sub><b>LANGUAGES</b></sub></p>
