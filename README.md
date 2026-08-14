@@ -82,11 +82,11 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[back-product-market](https://github.com/jnates/back-product-market)** | Backend for a product marketplace | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **[Infra-reutilizable-terraform](https://github.com/jnates/Infra-reutilizable-terraform)** | Reusable infrastructure modules as code | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
-| **[crud_nest](https://github.com/jnates/crud_nest)** | RESTful CRUD API with NestJS | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) |
-| **[paper_and_pencil_with_opencv](https://github.com/jnates/paper_and_pencil_with_opencv)** | Computer vision + GUI to unify tasks | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[apis-services-java](https://github.com/jnates/apis-services-java)** | API services and microservices | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| [![back-product-market](https://img.shields.io/badge/back--product--market-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jnates/back-product-market) | Backend for a product marketplace | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [![Infra-reutilizable-terraform](https://img.shields.io/badge/Infra--reutilizable--terraform-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jnates/Infra-reutilizable-terraform) | Reusable infrastructure modules as code | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
+| [![crud_nest](https://img.shields.io/badge/crud__nest-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jnates/crud_nest) | RESTful CRUD API with NestJS | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) |
+| [![paper_and_pencil_with_opencv](https://img.shields.io/badge/paper__and__pencil__with__opencv-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jnates/paper_and_pencil_with_opencv) | Computer vision + GUI to unify tasks | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [![apis-services-java](https://img.shields.io/badge/apis--services--java-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jnates/apis-services-java) | API services and microservices | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 
 </div>
 
