@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=560&lines=Senior+Backend+Developer+%40+Dropi;Go+%7C+NestJS+%7C+Microservices;Hexagonal+Architecture+%26+DevOps;Cloud+Enthusiast+(AWS+%2F+Azure+%2F+GCP)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=560&lines=Senior+Backend+Developer;Go+%7C+NestJS+%7C+Microservices;Hexagonal+Architecture+%26+DevOps;Cloud+Enthusiast+(AWS+%2F+Azure+%2F+GCP)" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About me
 
-- 🔭 **Senior Backend Developer @ [Dropi](https://dropi.co)** — founding developer of the platform's configuration-driven core.
+- 🔭 **Senior Backend Developer** — founding developer of a platform's configuration-driven core.
 - 🏗️ I build highly scalable **microservices** with **Hexagonal Architecture (Ports & Adapters)** using **Go (Echo v4)**, **PostgreSQL**, **Redis** and **RabbitMQ**.
 - 🧩 Author of an internal **NestJS** library + CLI for automated boilerplate; I also work on **BFF** layers with NestJS & TypeScript.
 - ☁️ Hands-on with **AWS**, **Azure** & **GCP**, plus **Docker**, **Kubernetes**, **Terraform** and **Serverless**.
