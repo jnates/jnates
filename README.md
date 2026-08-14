@@ -69,16 +69,7 @@
 <div align="center"><h2>📊 GitHub Stats</h2></div>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jnates&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnates&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jnates&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jnates&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
+  <img src="https://streak-stats.demolab.com/?user=jnates&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 ---
